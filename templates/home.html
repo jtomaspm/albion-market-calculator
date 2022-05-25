@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/auth.css') }}">
+<title>Home</title>
+{% endblock %}
+
+{% block body %}
+
+<div class="title center">
+    <h1>Select cities</h1>    
+</div>
+
+<div class="form-wrapper center">
+    <form action="" method="POST">
+        <br>
+        <input type="checkbox" id="thetford" name="thetford" value="True">
+        <label for="thetford">thetford</label><br>
+
+        <label for="thetford_tax">Taxa(Silver):</label>
+        <input type="text" id="thetford_tax" name="thetford_tax" value="400"><br>
+
+        <br><br>
+
+        <input type="checkbox" id="fortsterling" name="fortsterling" value="True">
+        <label for="fortsterling">fortsterling</label><br>
+
+        <label for="fortsterling_tax">Taxa(Silver):</label>
+        <input type="text" id="fortsterling_tax" name="fortsterling_tax" value="400"><br>
+
+        <br><br>
+
+        <input type="checkbox" id="lymhurst" name="lymhurst" value="True">
+        <label for="lymhurst">lymhurst</label><br>
+
+        <label for="lymhurst_tax">Taxa(Silver):</label>
+        <input type="text" id="lymhurst_tax" name="lymhurst_tax" value="400"><br>
+
+        <br><br>
+
+        <input type="checkbox" id="bridgewatch" name="bridgewatch" value="True">
+        <label for="bridgewatch">bridgewatch</label><br>
+
+        <label for="bridgewatch_tax">Taxa(Silver):</label>
+        <input type="text" id="bridgewatch_tax" name="bridgewatch_tax" value="400"><br>
+
+        <br><br>
+
+        <input type="checkbox" id="martlock" name="martlock" value="True">
+        <label for="martlock">martlock</label><br>
+
+        <label for="martlock_tax">Taxa(Silver):</label>
+        <input type="text" id="martlock_tax" name="martlock_tax" value="400"><br>
+
+        <br><br>
+
+        <input type="checkbox" id="caerleon" name="caerleon" value="True">
+        <label for="caerleon">caerleon</label><br>
+
+        <label for="caerleon_tax">Taxa(Silver):</label>
+        <input type="text" id="caerleon_tax" name="caerleon_tax" value="400"><br>
+        <br><br>
+
+        <input type="submit" value="Submit">
+        <br><br>
+
+    </form>
+</div>
+
+{% endblock %}
+
+
+
+
+thetford
+fortsterling
+lymhurst
+bridgewatch
+martlock
+caerleon
+
