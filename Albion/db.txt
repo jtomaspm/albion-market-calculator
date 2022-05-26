@@ -1,0 +1,2400 @@
+T4_CLOTH
+
+{"item_id": "T4_CLOTH", "city": "Bridgewatch", "quality": 1, "sell_price_min": 165, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 175, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 164, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_CLOTH
+
+{"item_id": "T4_CLOTH", "city": "Caerleon", "quality": 1, "sell_price_min": 229, "sell_price_min_date": "2022-05-25T19:20:00", "sell_price_max": 238, "sell_price_max_date": "2022-05-25T19:20:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 220, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T4_CLOTH_LEVEL1@1
+
+{"item_id": "T4_CLOTH_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 273, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 320, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 255, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_CLOTH_LEVEL1@1
+
+{"item_id": "T4_CLOTH_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_CLOTH_LEVEL2@2
+
+{"item_id": "T4_CLOTH_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1661, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 1745, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 5, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 1252, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_CLOTH_LEVEL2@2
+
+{"item_id": "T4_CLOTH_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 1671, "sell_price_min_date": "2022-05-25T20:30:00", "sell_price_max": 1800, "sell_price_max_date": "2022-05-25T20:30:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_CLOTH_LEVEL3@3
+
+{"item_id": "T4_CLOTH_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 7983, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 8800, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 11, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 7019, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_CLOTH_LEVEL3@3
+
+{"item_id": "T4_CLOTH_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_FIBER
+
+{"item_id": "T4_FIBER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 55, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 58, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 54, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_FIBER
+
+{"item_id": "T4_FIBER", "city": "Caerleon", "quality": 1, "sell_price_min": 73, "sell_price_min_date": "2022-05-26T00:45:00", "sell_price_max": 100, "sell_price_max_date": "2022-05-26T00:45:00", "buy_price_min": 7, "buy_price_min_date": "2022-05-25T18:10:00", "buy_price_max": 50, "buy_price_max_date": "2022-05-25T18:10:00"}
+
+
+
+T4_FIBER_LEVEL1@1
+
+{"item_id": "T4_FIBER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 118, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 127, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 117, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_FIBER_LEVEL1@1
+
+{"item_id": "T4_FIBER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 130, "sell_price_min_date": "2022-05-25T20:30:00", "sell_price_max": 130, "sell_price_max_date": "2022-05-25T20:30:00", "buy_price_min": 129, "buy_price_min_date": "2022-05-25T19:00:00", "buy_price_max": 129, "buy_price_max_date": "2022-05-25T19:00:00"}
+
+
+
+T4_FIBER_LEVEL2@2
+
+{"item_id": "T4_FIBER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 870, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 899, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 863, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_FIBER_LEVEL2@2
+
+{"item_id": "T4_FIBER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 830, "sell_price_min_date": "2022-05-25T20:30:00", "sell_price_max": 870, "sell_price_max_date": "2022-05-25T20:30:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T20:30:00", "buy_price_max": 816, "buy_price_max_date": "2022-05-25T20:30:00"}
+
+
+
+T4_FIBER_LEVEL3@3
+
+{"item_id": "T4_FIBER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 6280, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 7299, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 13, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 6107, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_FIBER_LEVEL3@3
+
+{"item_id": "T4_FIBER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 5809, "sell_price_min_date": "2022-05-25T14:55:00", "sell_price_max": 6054, "sell_price_max_date": "2022-05-25T14:55:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T14:50:00", "buy_price_max": 5515, "buy_price_max_date": "2022-05-25T14:50:00"}
+
+
+
+T4_HIDE
+
+{"item_id": "T4_HIDE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 59, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 59, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 4, "buy_price_min_date": "2022-05-26T04:20:00", "buy_price_max": 54, "buy_price_max_date": "2022-05-26T04:20:00"}
+
+
+
+T4_HIDE
+
+{"item_id": "T4_HIDE", "city": "Caerleon", "quality": 1, "sell_price_min": 46, "sell_price_min_date": "2022-05-25T23:35:00", "sell_price_max": 83, "sell_price_max_date": "2022-05-25T23:35:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T12:05:00", "buy_price_max": 53, "buy_price_max_date": "2022-05-25T12:05:00"}
+
+
+
+T4_HIDE_LEVEL1@1
+
+{"item_id": "T4_HIDE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 164, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 185, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 21, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 159, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_HIDE_LEVEL1@1
+
+{"item_id": "T4_HIDE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 120, "sell_price_min_date": "2022-05-25T12:10:00", "sell_price_max": 139, "sell_price_max_date": "2022-05-25T12:10:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T12:10:00", "buy_price_max": 119, "buy_price_max_date": "2022-05-25T12:10:00"}
+
+
+
+T4_HIDE_LEVEL2@2
+
+{"item_id": "T4_HIDE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1123, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 1135, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 1122, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_HIDE_LEVEL2@2
+
+{"item_id": "T4_HIDE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 969, "sell_price_min_date": "2022-05-25T18:50:00", "sell_price_max": 981, "sell_price_max_date": "2022-05-25T18:50:00", "buy_price_min": 11, "buy_price_min_date": "2022-05-25T15:35:00", "buy_price_max": 975, "buy_price_max_date": "2022-05-25T15:35:00"}
+
+
+
+T4_HIDE_LEVEL3@3
+
+{"item_id": "T4_HIDE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 8576, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 8694, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 22, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 8201, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_HIDE_LEVEL3@3
+
+{"item_id": "T4_HIDE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 8235, "sell_price_min_date": "2022-05-25T15:35:00", "sell_price_max": 8430, "sell_price_max_date": "2022-05-25T15:35:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T15:35:00", "buy_price_max": 7526, "buy_price_max_date": "2022-05-25T15:35:00"}
+
+
+
+T4_LEATHER
+
+{"item_id": "T4_LEATHER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 171, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 192, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 170, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_LEATHER
+
+{"item_id": "T4_LEATHER", "city": "Caerleon", "quality": 1, "sell_price_min": 255, "sell_price_min_date": "2022-05-25T20:35:00", "sell_price_max": 287, "sell_price_max_date": "2022-05-25T20:35:00", "buy_price_min": 244, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 244, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T4_LEATHER_LEVEL1@1
+
+{"item_id": "T4_LEATHER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 303, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 334, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 282, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_LEATHER_LEVEL1@1
+
+{"item_id": "T4_LEATHER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 432, "sell_price_min_date": "2022-05-25T20:15:00", "sell_price_max": 493, "sell_price_max_date": "2022-05-25T20:15:00", "buy_price_min": 350, "buy_price_min_date": "2022-05-25T18:50:00", "buy_price_max": 373, "buy_price_max_date": "2022-05-25T18:50:00"}
+
+
+
+T4_LEATHER_LEVEL2@2
+
+{"item_id": "T4_LEATHER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1783, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 1975, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 1625, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_LEATHER_LEVEL2@2
+
+{"item_id": "T4_LEATHER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 2018, "sell_price_min_date": "2022-05-26T02:30:00", "sell_price_max": 2221, "sell_price_max_date": "2022-05-26T02:30:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T18:50:00", "buy_price_max": 1851, "buy_price_max_date": "2022-05-25T18:50:00"}
+
+
+
+T4_LEATHER_LEVEL3@3
+
+{"item_id": "T4_LEATHER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 9493, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 10829, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 32, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 9150, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_LEATHER_LEVEL3@3
+
+{"item_id": "T4_LEATHER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 10851, "sell_price_min_date": "2022-05-25T20:35:00", "sell_price_max": 11661, "sell_price_max_date": "2022-05-25T20:35:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-25T20:35:00", "buy_price_max": 8511, "buy_price_max_date": "2022-05-25T20:35:00"}
+
+
+
+T4_METALBAR
+
+{"item_id": "T4_METALBAR", "city": "Bridgewatch", "quality": 1, "sell_price_min": 174, "sell_price_min_date": "2022-05-26T04:35:00", "sell_price_max": 174, "sell_price_max_date": "2022-05-26T04:35:00", "buy_price_min": 155, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 155, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_METALBAR
+
+{"item_id": "T4_METALBAR", "city": "Caerleon", "quality": 1, "sell_price_min": 206, "sell_price_min_date": "2022-05-25T23:05:00", "sell_price_max": 220, "sell_price_max_date": "2022-05-25T23:05:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 191, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T4_METALBAR_LEVEL1@1
+
+{"item_id": "T4_METALBAR_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 349, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 533, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 225, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 244, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_METALBAR_LEVEL1@1
+
+{"item_id": "T4_METALBAR_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 514, "sell_price_min_date": "2022-05-25T18:20:00", "sell_price_max": 569, "sell_price_max_date": "2022-05-25T18:20:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T18:20:00", "buy_price_max": 448, "buy_price_max_date": "2022-05-25T18:20:00"}
+
+
+
+T4_METALBAR_LEVEL2@2
+
+{"item_id": "T4_METALBAR_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1344, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 1481, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 900, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 1019, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_METALBAR_LEVEL2@2
+
+{"item_id": "T4_METALBAR_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 1715, "sell_price_min_date": "2022-05-25T21:50:00", "sell_price_max": 1985, "sell_price_max_date": "2022-05-25T21:50:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T21:50:00", "buy_price_max": 1441, "buy_price_max_date": "2022-05-25T21:50:00"}
+
+
+
+T4_METALBAR_LEVEL3@3
+
+{"item_id": "T4_METALBAR_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 7582, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 8600, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 50, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 6100, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_METALBAR_LEVEL3@3
+
+{"item_id": "T4_METALBAR_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 7929, "sell_price_min_date": "2022-05-25T20:55:00", "sell_price_max": 8410, "sell_price_max_date": "2022-05-25T20:55:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T20:45:00", "buy_price_max": 7050, "buy_price_max_date": "2022-05-25T20:45:00"}
+
+
+
+T4_ORE
+
+{"item_id": "T4_ORE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 58, "sell_price_min_date": "2022-05-26T04:20:00", "sell_price_max": 66, "sell_price_max_date": "2022-05-26T04:20:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-26T04:20:00", "buy_price_max": 56, "buy_price_max_date": "2022-05-26T04:20:00"}
+
+
+
+T4_ORE
+
+{"item_id": "T4_ORE", "city": "Caerleon", "quality": 1, "sell_price_min": 44, "sell_price_min_date": "2022-05-25T23:40:00", "sell_price_max": 46, "sell_price_max_date": "2022-05-25T23:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_ORE_LEVEL1@1
+
+{"item_id": "T4_ORE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 122, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 138, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 6, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 121, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_ORE_LEVEL1@1
+
+{"item_id": "T4_ORE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_ORE_LEVEL2@2
+
+{"item_id": "T4_ORE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 811, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 845, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 13, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 810, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_ORE_LEVEL2@2
+
+{"item_id": "T4_ORE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 746, "sell_price_min_date": "2022-05-25T07:30:00", "sell_price_max": 814, "sell_price_max_date": "2022-05-25T07:30:00", "buy_price_min": 14, "buy_price_min_date": "2022-05-25T07:30:00", "buy_price_max": 745, "buy_price_max_date": "2022-05-25T07:30:00"}
+
+
+
+T4_ORE_LEVEL3@3
+
+{"item_id": "T4_ORE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 5067, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 5195, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 15, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 4917, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_ORE_LEVEL3@3
+
+{"item_id": "T4_ORE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_PLANKS
+
+{"item_id": "T4_PLANKS", "city": "Bridgewatch", "quality": 1, "sell_price_min": 166, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 172, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 165, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_PLANKS
+
+{"item_id": "T4_PLANKS", "city": "Caerleon", "quality": 1, "sell_price_min": 205, "sell_price_min_date": "2022-05-25T23:35:00", "sell_price_max": 210, "sell_price_max_date": "2022-05-25T23:35:00", "buy_price_min": 5, "buy_price_min_date": "2022-05-25T18:10:00", "buy_price_max": 206, "buy_price_max_date": "2022-05-25T18:10:00"}
+
+
+
+T4_PLANKS_LEVEL1@1
+
+{"item_id": "T4_PLANKS_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 313, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 586, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 235, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 247, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_PLANKS_LEVEL1@1
+
+{"item_id": "T4_PLANKS_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 322, "sell_price_min_date": "2022-05-25T18:15:00", "sell_price_max": 356, "sell_price_max_date": "2022-05-25T18:15:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 314, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T4_PLANKS_LEVEL2@2
+
+{"item_id": "T4_PLANKS_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1240, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 1630, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 747, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 937, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_PLANKS_LEVEL2@2
+
+{"item_id": "T4_PLANKS_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 1397, "sell_price_min_date": "2022-05-25T21:50:00", "sell_price_max": 1531, "sell_price_max_date": "2022-05-25T21:50:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T21:50:00", "buy_price_max": 1221, "buy_price_max_date": "2022-05-25T21:50:00"}
+
+
+
+T4_PLANKS_LEVEL3@3
+
+{"item_id": "T4_PLANKS_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 4000, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 4598, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 29, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 2801, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T4_PLANKS_LEVEL3@3
+
+{"item_id": "T4_PLANKS_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 4599, "sell_price_min_date": "2022-05-25T20:55:00", "sell_price_max": 4599, "sell_price_max_date": "2022-05-25T20:55:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T20:50:00", "buy_price_max": 3700, "buy_price_max_date": "2022-05-25T20:50:00"}
+
+
+
+T4_ROCK
+
+{"item_id": "T4_ROCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 16, "sell_price_min_date": "2022-05-26T04:40:00", "sell_price_max": 16, "sell_price_max_date": "2022-05-26T04:40:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-26T04:20:00", "buy_price_max": 8, "buy_price_max_date": "2022-05-26T04:20:00"}
+
+
+
+T4_ROCK
+
+{"item_id": "T4_ROCK", "city": "Caerleon", "quality": 1, "sell_price_min": 8, "sell_price_min_date": "2022-05-26T04:35:00", "sell_price_max": 8, "sell_price_max_date": "2022-05-26T04:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_ROCK_LEVEL1@1
+
+{"item_id": "T4_ROCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 15, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 16, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T17:10:00", "buy_price_max": 13, "buy_price_max_date": "2022-05-25T17:10:00"}
+
+
+
+T4_ROCK_LEVEL1@1
+
+{"item_id": "T4_ROCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 9, "sell_price_min_date": "2022-05-26T04:35:00", "sell_price_max": 9, "sell_price_max_date": "2022-05-26T04:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_ROCK_LEVEL2@2
+
+{"item_id": "T4_ROCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 37, "sell_price_min_date": "2022-05-26T04:40:00", "sell_price_max": 400, "sell_price_max_date": "2022-05-26T04:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_ROCK_LEVEL2@2
+
+{"item_id": "T4_ROCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 16, "sell_price_min_date": "2022-05-26T00:45:00", "sell_price_max": 61, "sell_price_max_date": "2022-05-26T00:45:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_ROCK_LEVEL3@3
+
+{"item_id": "T4_ROCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 101, "sell_price_min_date": "2022-05-26T04:40:00", "sell_price_max": 104, "sell_price_max_date": "2022-05-26T04:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_ROCK_LEVEL3@3
+
+{"item_id": "T4_ROCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 41, "sell_price_min_date": "2022-05-25T21:10:00", "sell_price_max": 68, "sell_price_max_date": "2022-05-25T21:10:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_STONEBLOCK
+
+{"item_id": "T4_STONEBLOCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 69, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 81, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 8, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 61, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_STONEBLOCK
+
+{"item_id": "T4_STONEBLOCK", "city": "Caerleon", "quality": 1, "sell_price_min": 114, "sell_price_min_date": "2022-05-25T17:35:00", "sell_price_max": 123, "sell_price_max_date": "2022-05-25T17:35:00", "buy_price_min": 107, "buy_price_min_date": "2022-05-26T01:30:00", "buy_price_max": 107, "buy_price_max_date": "2022-05-26T01:30:00"}
+
+
+
+T4_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T4_STONEBLOCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T4_STONEBLOCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T4_STONEBLOCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T4_STONEBLOCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T4_STONEBLOCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T4_STONEBLOCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T4_WOOD
+
+{"item_id": "T4_WOOD", "city": "Bridgewatch", "quality": 1, "sell_price_min": 53, "sell_price_min_date": "2022-05-26T04:30:00", "sell_price_max": 60, "sell_price_max_date": "2022-05-26T04:30:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-26T04:20:00", "buy_price_max": 47, "buy_price_max_date": "2022-05-26T04:20:00"}
+
+
+
+T4_WOOD
+
+{"item_id": "T4_WOOD", "city": "Caerleon", "quality": 1, "sell_price_min": 65, "sell_price_min_date": "2022-05-25T23:35:00", "sell_price_max": 99, "sell_price_max_date": "2022-05-25T23:35:00", "buy_price_min": 46, "buy_price_min_date": "2022-05-25T07:35:00", "buy_price_max": 46, "buy_price_max_date": "2022-05-25T07:35:00"}
+
+
+
+T4_WOOD_LEVEL1@1
+
+{"item_id": "T4_WOOD_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 50, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 87, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 49, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_WOOD_LEVEL1@1
+
+{"item_id": "T4_WOOD_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 108, "sell_price_min_date": "2022-05-25T07:35:00", "sell_price_max": 108, "sell_price_max_date": "2022-05-25T07:35:00", "buy_price_min": 70, "buy_price_min_date": "2022-05-25T21:40:00", "buy_price_max": 90, "buy_price_max_date": "2022-05-25T21:40:00"}
+
+
+
+T4_WOOD_LEVEL2@2
+
+{"item_id": "T4_WOOD_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 594, "sell_price_min_date": "2022-05-26T04:40:00", "sell_price_max": 594, "sell_price_max_date": "2022-05-26T04:40:00", "buy_price_min": 11, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 574, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_WOOD_LEVEL2@2
+
+{"item_id": "T4_WOOD_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 473, "sell_price_min_date": "2022-05-25T20:30:00", "sell_price_max": 544, "sell_price_max_date": "2022-05-25T20:30:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T07:30:00", "buy_price_max": 472, "buy_price_max_date": "2022-05-25T07:30:00"}
+
+
+
+T4_WOOD_LEVEL3@3
+
+{"item_id": "T4_WOOD_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 2598, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 2699, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 13, "buy_price_min_date": "2022-05-26T04:25:00", "buy_price_max": 2003, "buy_price_max_date": "2022-05-26T04:25:00"}
+
+
+
+T4_WOOD_LEVEL3@3
+
+{"item_id": "T4_WOOD_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 2389, "sell_price_min_date": "2022-05-25T07:30:00", "sell_price_max": 2476, "sell_price_max_date": "2022-05-25T07:30:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T07:30:00", "buy_price_max": 2167, "buy_price_max_date": "2022-05-25T07:30:00"}
+
+
+
+T5_CLOTH
+
+{"item_id": "T5_CLOTH", "city": "Bridgewatch", "quality": 1, "sell_price_min": 768, "sell_price_min_date": "2022-05-25T16:15:00", "sell_price_max": 807, "sell_price_max_date": "2022-05-25T16:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_CLOTH
+
+{"item_id": "T5_CLOTH", "city": "Caerleon", "quality": 1, "sell_price_min": 969, "sell_price_min_date": "2022-05-25T21:40:00", "sell_price_max": 969, "sell_price_max_date": "2022-05-25T21:40:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T17:55:00", "buy_price_max": 950, "buy_price_max_date": "2022-05-25T17:55:00"}
+
+
+
+T5_CLOTH_LEVEL1@1
+
+{"item_id": "T5_CLOTH_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_CLOTH_LEVEL1@1
+
+{"item_id": "T5_CLOTH_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 1590, "sell_price_min_date": "2022-05-25T21:50:00", "sell_price_max": 1699, "sell_price_max_date": "2022-05-25T21:50:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T21:50:00", "buy_price_max": 1515, "buy_price_max_date": "2022-05-25T21:50:00"}
+
+
+
+T5_CLOTH_LEVEL2@2
+
+{"item_id": "T5_CLOTH_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_CLOTH_LEVEL2@2
+
+{"item_id": "T5_CLOTH_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 3775, "sell_price_min_date": "2022-05-25T20:30:00", "sell_price_max": 3939, "sell_price_max_date": "2022-05-25T20:30:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-25T18:45:00", "buy_price_max": 3630, "buy_price_max_date": "2022-05-25T18:45:00"}
+
+
+
+T5_CLOTH_LEVEL3@3
+
+{"item_id": "T5_CLOTH_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_CLOTH_LEVEL3@3
+
+{"item_id": "T5_CLOTH_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 17091, "sell_price_min_date": "2022-05-25T21:05:00", "sell_price_max": 17091, "sell_price_max_date": "2022-05-25T21:05:00", "buy_price_min": 103, "buy_price_min_date": "2022-05-25T21:05:00", "buy_price_max": 14504, "buy_price_max_date": "2022-05-25T21:05:00"}
+
+
+
+T5_FIBER
+
+{"item_id": "T5_FIBER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 295, "sell_price_min_date": "2022-05-26T00:20:00", "sell_price_max": 321, "sell_price_max_date": "2022-05-26T00:20:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T20:40:00", "buy_price_max": 291, "buy_price_max_date": "2022-05-25T20:40:00"}
+
+
+
+T5_FIBER
+
+{"item_id": "T5_FIBER", "city": "Caerleon", "quality": 1, "sell_price_min": 282, "sell_price_min_date": "2022-05-25T23:40:00", "sell_price_max": 316, "sell_price_max_date": "2022-05-25T23:40:00", "buy_price_min": 264, "buy_price_min_date": "2022-05-25T14:30:00", "buy_price_max": 280, "buy_price_max_date": "2022-05-25T14:30:00"}
+
+
+
+T5_FIBER_LEVEL1@1
+
+{"item_id": "T5_FIBER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 498, "sell_price_min_date": "2022-05-25T05:05:00", "sell_price_max": 545, "sell_price_max_date": "2022-05-25T05:05:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_FIBER_LEVEL1@1
+
+{"item_id": "T5_FIBER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 404, "sell_price_min_date": "2022-05-25T14:35:00", "sell_price_max": 463, "sell_price_max_date": "2022-05-25T14:35:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-26T03:45:00", "buy_price_max": 1, "buy_price_max_date": "2022-05-26T03:45:00"}
+
+
+
+T5_FIBER_LEVEL2@2
+
+{"item_id": "T5_FIBER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1080, "sell_price_min_date": "2022-05-26T00:20:00", "sell_price_max": 1180, "sell_price_max_date": "2022-05-26T00:20:00", "buy_price_min": 1024, "buy_price_min_date": "2022-05-26T00:25:00", "buy_price_max": 1024, "buy_price_max_date": "2022-05-26T00:25:00"}
+
+
+
+T5_FIBER_LEVEL2@2
+
+{"item_id": "T5_FIBER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_FIBER_LEVEL3@3
+
+{"item_id": "T5_FIBER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 6759, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 7077, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 102, "buy_price_min_date": "2022-05-25T20:40:00", "buy_price_max": 6616, "buy_price_max_date": "2022-05-25T20:40:00"}
+
+
+
+T5_FIBER_LEVEL3@3
+
+{"item_id": "T5_FIBER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_HIDE
+
+{"item_id": "T5_HIDE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 430, "sell_price_min_date": "2022-05-25T18:35:00", "sell_price_max": 453, "sell_price_max_date": "2022-05-25T18:35:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 416, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T5_HIDE
+
+{"item_id": "T5_HIDE", "city": "Caerleon", "quality": 1, "sell_price_min": 412, "sell_price_min_date": "2022-05-25T16:10:00", "sell_price_max": 431, "sell_price_max_date": "2022-05-25T16:10:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T15:35:00", "buy_price_max": 412, "buy_price_max_date": "2022-05-25T15:35:00"}
+
+
+
+T5_HIDE_LEVEL1@1
+
+{"item_id": "T5_HIDE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 624, "sell_price_min_date": "2022-05-26T03:20:00", "sell_price_max": 624, "sell_price_max_date": "2022-05-26T03:20:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 614, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T5_HIDE_LEVEL1@1
+
+{"item_id": "T5_HIDE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 545, "sell_price_min_date": "2022-05-25T12:50:00", "sell_price_max": 551, "sell_price_max_date": "2022-05-25T12:50:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T12:50:00", "buy_price_max": 544, "buy_price_max_date": "2022-05-25T12:50:00"}
+
+
+
+T5_HIDE_LEVEL2@2
+
+{"item_id": "T5_HIDE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1729, "sell_price_min_date": "2022-05-26T03:20:00", "sell_price_max": 1729, "sell_price_max_date": "2022-05-26T03:20:00", "buy_price_min": 60, "buy_price_min_date": "2022-05-25T20:40:00", "buy_price_max": 1416, "buy_price_max_date": "2022-05-25T20:40:00"}
+
+
+
+T5_HIDE_LEVEL2@2
+
+{"item_id": "T5_HIDE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 1330, "sell_price_min_date": "2022-05-25T21:35:00", "sell_price_max": 1530, "sell_price_max_date": "2022-05-25T21:35:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-25T21:35:00", "buy_price_max": 1314, "buy_price_max_date": "2022-05-25T21:35:00"}
+
+
+
+T5_HIDE_LEVEL3@3
+
+{"item_id": "T5_HIDE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 8898, "sell_price_min_date": "2022-05-25T18:35:00", "sell_price_max": 9000, "sell_price_max_date": "2022-05-25T18:35:00", "buy_price_min": 15, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 8709, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T5_HIDE_LEVEL3@3
+
+{"item_id": "T5_HIDE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 8729, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 8841, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 113, "buy_price_min_date": "2022-05-25T15:35:00", "buy_price_max": 8420, "buy_price_max_date": "2022-05-25T15:35:00"}
+
+
+
+T5_LEATHER
+
+{"item_id": "T5_LEATHER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 996, "sell_price_min_date": "2022-05-25T23:45:00", "sell_price_max": 1045, "sell_price_max_date": "2022-05-25T23:45:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-25T15:25:00", "buy_price_max": 1007, "buy_price_max_date": "2022-05-25T15:25:00"}
+
+
+
+T5_LEATHER
+
+{"item_id": "T5_LEATHER", "city": "Caerleon", "quality": 1, "sell_price_min": 1263, "sell_price_min_date": "2022-05-25T21:00:00", "sell_price_max": 1399, "sell_price_max_date": "2022-05-25T21:00:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T20:30:00", "buy_price_max": 1230, "buy_price_max_date": "2022-05-25T20:30:00"}
+
+
+
+T5_LEATHER_LEVEL1@1
+
+{"item_id": "T5_LEATHER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_LEATHER_LEVEL1@1
+
+{"item_id": "T5_LEATHER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 1880, "sell_price_min_date": "2022-05-25T23:00:00", "sell_price_max": 2097, "sell_price_max_date": "2022-05-25T23:00:00", "buy_price_min": 1523, "buy_price_min_date": "2022-05-25T23:00:00", "buy_price_max": 1655, "buy_price_max_date": "2022-05-25T23:00:00"}
+
+
+
+T5_LEATHER_LEVEL2@2
+
+{"item_id": "T5_LEATHER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_LEATHER_LEVEL2@2
+
+{"item_id": "T5_LEATHER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 5234, "sell_price_min_date": "2022-05-25T20:50:00", "sell_price_max": 5376, "sell_price_max_date": "2022-05-25T20:50:00", "buy_price_min": 4890, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 4890, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T5_LEATHER_LEVEL3@3
+
+{"item_id": "T5_LEATHER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_LEATHER_LEVEL3@3
+
+{"item_id": "T5_LEATHER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 23435, "sell_price_min_date": "2022-05-25T23:00:00", "sell_price_max": 27500, "sell_price_max_date": "2022-05-25T23:00:00", "buy_price_min": 128, "buy_price_min_date": "2022-05-25T23:00:00", "buy_price_max": 20816, "buy_price_max_date": "2022-05-25T23:00:00"}
+
+
+
+T5_METALBAR
+
+{"item_id": "T5_METALBAR", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_METALBAR
+
+{"item_id": "T5_METALBAR", "city": "Caerleon", "quality": 1, "sell_price_min": 878, "sell_price_min_date": "2022-05-25T20:55:00", "sell_price_max": 913, "sell_price_max_date": "2022-05-25T20:55:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 863, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T5_METALBAR_LEVEL1@1
+
+{"item_id": "T5_METALBAR_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1251, "sell_price_min_date": "2022-05-25T17:05:00", "sell_price_max": 1423, "sell_price_max_date": "2022-05-25T17:05:00", "buy_price_min": 600, "buy_price_min_date": "2022-05-25T17:05:00", "buy_price_max": 1001, "buy_price_max_date": "2022-05-25T17:05:00"}
+
+
+
+T5_METALBAR_LEVEL1@1
+
+{"item_id": "T5_METALBAR_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 1950, "sell_price_min_date": "2022-05-25T20:55:00", "sell_price_max": 2110, "sell_price_max_date": "2022-05-25T20:55:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T20:55:00", "buy_price_max": 1561, "buy_price_max_date": "2022-05-25T20:55:00"}
+
+
+
+T5_METALBAR_LEVEL2@2
+
+{"item_id": "T5_METALBAR_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_METALBAR_LEVEL2@2
+
+{"item_id": "T5_METALBAR_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 5596, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 5845, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T18:20:00", "buy_price_max": 5539, "buy_price_max_date": "2022-05-25T18:20:00"}
+
+
+
+T5_METALBAR_LEVEL3@3
+
+{"item_id": "T5_METALBAR_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 19096, "sell_price_min_date": "2022-05-26T04:25:00", "sell_price_max": 19800, "sell_price_max_date": "2022-05-26T04:25:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_METALBAR_LEVEL3@3
+
+{"item_id": "T5_METALBAR_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 20998, "sell_price_min_date": "2022-05-25T20:55:00", "sell_price_max": 21000, "sell_price_max_date": "2022-05-25T20:55:00", "buy_price_min": 11, "buy_price_min_date": "2022-05-25T18:20:00", "buy_price_max": 15500, "buy_price_max_date": "2022-05-25T18:20:00"}
+
+
+
+T5_ORE
+
+{"item_id": "T5_ORE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 285, "sell_price_min_date": "2022-05-25T20:30:00", "sell_price_max": 300, "sell_price_max_date": "2022-05-25T20:30:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-25T20:30:00", "buy_price_max": 285, "buy_price_max_date": "2022-05-25T20:30:00"}
+
+
+
+T5_ORE
+
+{"item_id": "T5_ORE", "city": "Caerleon", "quality": 1, "sell_price_min": 257, "sell_price_min_date": "2022-05-25T20:35:00", "sell_price_max": 289, "sell_price_max_date": "2022-05-25T20:35:00", "buy_price_min": 205, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 210, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T5_ORE_LEVEL1@1
+
+{"item_id": "T5_ORE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 437, "sell_price_min_date": "2022-05-26T00:35:00", "sell_price_max": 650, "sell_price_max_date": "2022-05-26T00:35:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-26T00:35:00", "buy_price_max": 436, "buy_price_max_date": "2022-05-26T00:35:00"}
+
+
+
+T5_ORE_LEVEL1@1
+
+{"item_id": "T5_ORE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_ORE_LEVEL2@2
+
+{"item_id": "T5_ORE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1989, "sell_price_min_date": "2022-05-25T16:00:00", "sell_price_max": 2008, "sell_price_max_date": "2022-05-25T16:00:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-25T16:05:00", "buy_price_max": 1981, "buy_price_max_date": "2022-05-25T16:05:00"}
+
+
+
+T5_ORE_LEVEL2@2
+
+{"item_id": "T5_ORE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 1541, "sell_price_min_date": "2022-05-25T05:15:00", "sell_price_max": 1677, "sell_price_max_date": "2022-05-25T05:15:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T05:15:00", "buy_price_max": 1520, "buy_price_max_date": "2022-05-25T05:15:00"}
+
+
+
+T5_ORE_LEVEL3@3
+
+{"item_id": "T5_ORE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_ORE_LEVEL3@3
+
+{"item_id": "T5_ORE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 6987, "sell_price_min_date": "2022-05-25T19:20:00", "sell_price_max": 7448, "sell_price_max_date": "2022-05-25T19:20:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_PLANKS
+
+{"item_id": "T5_PLANKS", "city": "Bridgewatch", "quality": 1, "sell_price_min": 675, "sell_price_min_date": "2022-05-25T16:50:00", "sell_price_max": 711, "sell_price_max_date": "2022-05-25T16:50:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_PLANKS
+
+{"item_id": "T5_PLANKS", "city": "Caerleon", "quality": 1, "sell_price_min": 704, "sell_price_min_date": "2022-05-25T19:15:00", "sell_price_max": 740, "sell_price_max_date": "2022-05-25T19:15:00", "buy_price_min": 100, "buy_price_min_date": "2022-05-25T18:10:00", "buy_price_max": 692, "buy_price_max_date": "2022-05-25T18:10:00"}
+
+
+
+T5_PLANKS_LEVEL1@1
+
+{"item_id": "T5_PLANKS_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_PLANKS_LEVEL1@1
+
+{"item_id": "T5_PLANKS_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 1540, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 2026, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 1000, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 1350, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T5_PLANKS_LEVEL2@2
+
+{"item_id": "T5_PLANKS_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_PLANKS_LEVEL2@2
+
+{"item_id": "T5_PLANKS_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 3938, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 5000, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 3700, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T5_PLANKS_LEVEL3@3
+
+{"item_id": "T5_PLANKS_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 18057, "sell_price_min_date": "2022-05-25T18:10:00", "sell_price_max": 33000, "sell_price_max_date": "2022-05-25T18:10:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_PLANKS_LEVEL3@3
+
+{"item_id": "T5_PLANKS_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 17969, "sell_price_min_date": "2022-05-25T20:35:00", "sell_price_max": 19748, "sell_price_max_date": "2022-05-25T20:35:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 12675, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T5_ROCK
+
+{"item_id": "T5_ROCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 118, "sell_price_min_date": "2022-05-26T01:40:00", "sell_price_max": 150, "sell_price_max_date": "2022-05-26T01:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_ROCK
+
+{"item_id": "T5_ROCK", "city": "Caerleon", "quality": 1, "sell_price_min": 101, "sell_price_min_date": "2022-05-26T04:05:00", "sell_price_max": 119, "sell_price_max_date": "2022-05-26T04:05:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_ROCK_LEVEL1@1
+
+{"item_id": "T5_ROCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 194, "sell_price_min_date": "2022-05-26T04:40:00", "sell_price_max": 222, "sell_price_max_date": "2022-05-26T04:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_ROCK_LEVEL1@1
+
+{"item_id": "T5_ROCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 151, "sell_price_min_date": "2022-05-26T03:50:00", "sell_price_max": 156, "sell_price_max_date": "2022-05-26T03:50:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_ROCK_LEVEL2@2
+
+{"item_id": "T5_ROCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 399, "sell_price_min_date": "2022-05-26T04:40:00", "sell_price_max": 454, "sell_price_max_date": "2022-05-26T04:40:00", "buy_price_min": 17, "buy_price_min_date": "2022-05-25T17:10:00", "buy_price_max": 394, "buy_price_max_date": "2022-05-25T17:10:00"}
+
+
+
+T5_ROCK_LEVEL2@2
+
+{"item_id": "T5_ROCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 297, "sell_price_min_date": "2022-05-25T20:50:00", "sell_price_max": 352, "sell_price_max_date": "2022-05-25T20:50:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_ROCK_LEVEL3@3
+
+{"item_id": "T5_ROCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1088, "sell_price_min_date": "2022-05-25T18:10:00", "sell_price_max": 1235, "sell_price_max_date": "2022-05-25T18:10:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_ROCK_LEVEL3@3
+
+{"item_id": "T5_ROCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 779, "sell_price_min_date": "2022-05-25T21:05:00", "sell_price_max": 835, "sell_price_max_date": "2022-05-25T21:05:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_STONEBLOCK
+
+{"item_id": "T5_STONEBLOCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_STONEBLOCK
+
+{"item_id": "T5_STONEBLOCK", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 363, "buy_price_min_date": "2022-05-26T01:30:00", "buy_price_max": 363, "buy_price_max_date": "2022-05-26T01:30:00"}
+
+
+
+T5_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T5_STONEBLOCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T5_STONEBLOCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T5_STONEBLOCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T5_STONEBLOCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T5_STONEBLOCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T5_STONEBLOCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T5_WOOD
+
+{"item_id": "T5_WOOD", "city": "Bridgewatch", "quality": 1, "sell_price_min": 239, "sell_price_min_date": "2022-05-25T20:30:00", "sell_price_max": 255, "sell_price_max_date": "2022-05-25T20:30:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T20:30:00", "buy_price_max": 226, "buy_price_max_date": "2022-05-25T20:30:00"}
+
+
+
+T5_WOOD
+
+{"item_id": "T5_WOOD", "city": "Caerleon", "quality": 1, "sell_price_min": 245, "sell_price_min_date": "2022-05-25T20:35:00", "sell_price_max": 662, "sell_price_max_date": "2022-05-25T20:35:00", "buy_price_min": 106, "buy_price_min_date": "2022-05-25T10:45:00", "buy_price_max": 219, "buy_price_max_date": "2022-05-25T10:45:00"}
+
+
+
+T5_WOOD_LEVEL1@1
+
+{"item_id": "T5_WOOD_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 474, "sell_price_min_date": "2022-05-25T18:55:00", "sell_price_max": 528, "sell_price_max_date": "2022-05-25T18:55:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 401, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T5_WOOD_LEVEL1@1
+
+{"item_id": "T5_WOOD_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 404, "sell_price_min_date": "2022-05-25T10:50:00", "sell_price_max": 510, "sell_price_max_date": "2022-05-25T10:50:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T10:45:00", "buy_price_max": 343, "buy_price_max_date": "2022-05-25T10:45:00"}
+
+
+
+T5_WOOD_LEVEL2@2
+
+{"item_id": "T5_WOOD_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1126, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 1249, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T20:40:00", "buy_price_max": 1101, "buy_price_max_date": "2022-05-25T20:40:00"}
+
+
+
+T5_WOOD_LEVEL2@2
+
+{"item_id": "T5_WOOD_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 952, "sell_price_min_date": "2022-05-25T20:35:00", "sell_price_max": 980, "sell_price_max_date": "2022-05-25T20:35:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T20:35:00", "buy_price_max": 950, "buy_price_max_date": "2022-05-25T20:35:00"}
+
+
+
+T5_WOOD_LEVEL3@3
+
+{"item_id": "T5_WOOD_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 8066, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 8656, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 101, "buy_price_min_date": "2022-05-25T20:40:00", "buy_price_max": 7693, "buy_price_max_date": "2022-05-25T20:40:00"}
+
+
+
+T5_WOOD_LEVEL3@3
+
+{"item_id": "T5_WOOD_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 7270, "sell_price_min_date": "2022-05-25T10:45:00", "sell_price_max": 7600, "sell_price_max_date": "2022-05-25T10:45:00", "buy_price_min": 14, "buy_price_min_date": "2022-05-25T10:45:00", "buy_price_max": 6804, "buy_price_max_date": "2022-05-25T10:45:00"}
+
+
+
+T6_CLOTH
+
+{"item_id": "T6_CLOTH", "city": "Bridgewatch", "quality": 1, "sell_price_min": 2907, "sell_price_min_date": "2022-05-25T19:55:00", "sell_price_max": 2938, "sell_price_max_date": "2022-05-25T19:55:00", "buy_price_min": 5, "buy_price_min_date": "2022-05-25T19:55:00", "buy_price_max": 2605, "buy_price_max_date": "2022-05-25T19:55:00"}
+
+
+
+T6_CLOTH
+
+{"item_id": "T6_CLOTH", "city": "Caerleon", "quality": 1, "sell_price_min": 3175, "sell_price_min_date": "2022-05-25T21:40:00", "sell_price_max": 3309, "sell_price_max_date": "2022-05-25T21:40:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 3028, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T6_CLOTH_LEVEL1@1
+
+{"item_id": "T6_CLOTH_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_CLOTH_LEVEL1@1
+
+{"item_id": "T6_CLOTH_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 5749, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 6533, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T14:45:00", "buy_price_max": 5670, "buy_price_max_date": "2022-05-25T14:45:00"}
+
+
+
+T6_CLOTH_LEVEL2@2
+
+{"item_id": "T6_CLOTH_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_CLOTH_LEVEL2@2
+
+{"item_id": "T6_CLOTH_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 19173, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 20713, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_CLOTH_LEVEL3@3
+
+{"item_id": "T6_CLOTH_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_CLOTH_LEVEL3@3
+
+{"item_id": "T6_CLOTH_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 43976, "sell_price_min_date": "2022-05-25T23:00:00", "sell_price_max": 55553, "sell_price_max_date": "2022-05-25T23:00:00", "buy_price_min": 18, "buy_price_min_date": "2022-05-25T23:00:00", "buy_price_max": 37016, "buy_price_max_date": "2022-05-25T23:00:00"}
+
+
+
+T6_FIBER
+
+{"item_id": "T6_FIBER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 777, "sell_price_min_date": "2022-05-25T22:50:00", "sell_price_max": 885, "sell_price_max_date": "2022-05-25T22:50:00", "buy_price_min": 5, "buy_price_min_date": "2022-05-25T22:50:00", "buy_price_max": 776, "buy_price_max_date": "2022-05-25T22:50:00"}
+
+
+
+T6_FIBER
+
+{"item_id": "T6_FIBER", "city": "Caerleon", "quality": 1, "sell_price_min": 775, "sell_price_min_date": "2022-05-26T00:25:00", "sell_price_max": 813, "sell_price_max_date": "2022-05-26T00:25:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T13:55:00", "buy_price_max": 726, "buy_price_max_date": "2022-05-25T13:55:00"}
+
+
+
+T6_FIBER_LEVEL1@1
+
+{"item_id": "T6_FIBER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1440, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 1801, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 5, "buy_price_min_date": "2022-05-25T20:45:00", "buy_price_max": 1340, "buy_price_max_date": "2022-05-25T20:45:00"}
+
+
+
+T6_FIBER_LEVEL1@1
+
+{"item_id": "T6_FIBER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 1643, "sell_price_min_date": "2022-05-25T20:15:00", "sell_price_max": 1726, "sell_price_max_date": "2022-05-25T20:15:00", "buy_price_min": 1700, "buy_price_min_date": "2022-05-25T14:40:00", "buy_price_max": 1700, "buy_price_max_date": "2022-05-25T14:40:00"}
+
+
+
+T6_FIBER_LEVEL2@2
+
+{"item_id": "T6_FIBER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 6963, "sell_price_min_date": "2022-05-26T01:45:00", "sell_price_max": 7344, "sell_price_max_date": "2022-05-26T01:45:00", "buy_price_min": 5, "buy_price_min_date": "2022-05-26T01:45:00", "buy_price_max": 6705, "buy_price_max_date": "2022-05-26T01:45:00"}
+
+
+
+T6_FIBER_LEVEL2@2
+
+{"item_id": "T6_FIBER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_FIBER_LEVEL3@3
+
+{"item_id": "T6_FIBER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 16865, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 16958, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 101, "buy_price_min_date": "2022-05-25T20:40:00", "buy_price_max": 16020, "buy_price_max_date": "2022-05-25T20:40:00"}
+
+
+
+T6_FIBER_LEVEL3@3
+
+{"item_id": "T6_FIBER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 15985, "sell_price_min_date": "2022-05-25T21:05:00", "sell_price_max": 16373, "sell_price_max_date": "2022-05-25T21:05:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_HIDE
+
+{"item_id": "T6_HIDE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1879, "sell_price_min_date": "2022-05-25T18:35:00", "sell_price_max": 1937, "sell_price_max_date": "2022-05-25T18:35:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 1875, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T6_HIDE
+
+{"item_id": "T6_HIDE", "city": "Caerleon", "quality": 1, "sell_price_min": 1767, "sell_price_min_date": "2022-05-26T00:45:00", "sell_price_max": 1799, "sell_price_max_date": "2022-05-26T00:45:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T12:45:00", "buy_price_max": 1795, "buy_price_max_date": "2022-05-25T12:45:00"}
+
+
+
+T6_HIDE_LEVEL1@1
+
+{"item_id": "T6_HIDE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 3150, "sell_price_min_date": "2022-05-25T18:35:00", "sell_price_max": 3429, "sell_price_max_date": "2022-05-25T18:35:00", "buy_price_min": 210, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 3148, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T6_HIDE_LEVEL1@1
+
+{"item_id": "T6_HIDE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 3187, "sell_price_min_date": "2022-05-25T12:55:00", "sell_price_max": 3316, "sell_price_max_date": "2022-05-25T12:55:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T12:55:00", "buy_price_max": 3085, "buy_price_max_date": "2022-05-25T12:55:00"}
+
+
+
+T6_HIDE_LEVEL2@2
+
+{"item_id": "T6_HIDE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 8694, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 9119, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 14, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 8675, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T6_HIDE_LEVEL2@2
+
+{"item_id": "T6_HIDE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 8396, "sell_price_min_date": "2022-05-25T15:35:00", "sell_price_max": 8691, "sell_price_max_date": "2022-05-25T15:35:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-25T15:35:00", "buy_price_max": 8029, "buy_price_max_date": "2022-05-25T15:35:00"}
+
+
+
+T6_HIDE_LEVEL3@3
+
+{"item_id": "T6_HIDE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 21992, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 30000, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 128, "buy_price_min_date": "2022-05-25T20:40:00", "buy_price_max": 18723, "buy_price_max_date": "2022-05-25T20:40:00"}
+
+
+
+T6_HIDE_LEVEL3@3
+
+{"item_id": "T6_HIDE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 18428, "sell_price_min_date": "2022-05-25T12:45:00", "sell_price_max": 18428, "sell_price_max_date": "2022-05-25T12:45:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T12:45:00", "buy_price_max": 16017, "buy_price_max_date": "2022-05-25T12:45:00"}
+
+
+
+T6_LEATHER
+
+{"item_id": "T6_LEATHER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 5050, "sell_price_min_date": "2022-05-25T18:25:00", "sell_price_max": 5783, "sell_price_max_date": "2022-05-25T18:25:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_LEATHER
+
+{"item_id": "T6_LEATHER", "city": "Caerleon", "quality": 1, "sell_price_min": 5599, "sell_price_min_date": "2022-05-25T21:30:00", "sell_price_max": 5725, "sell_price_max_date": "2022-05-25T21:30:00", "buy_price_min": 100, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 5406, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T6_LEATHER_LEVEL1@1
+
+{"item_id": "T6_LEATHER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_LEATHER_LEVEL1@1
+
+{"item_id": "T6_LEATHER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 9489, "sell_price_min_date": "2022-05-25T21:50:00", "sell_price_max": 11449, "sell_price_max_date": "2022-05-25T21:50:00", "buy_price_min": 8605, "buy_price_min_date": "2022-05-25T19:00:00", "buy_price_max": 9300, "buy_price_max_date": "2022-05-25T19:00:00"}
+
+
+
+T6_LEATHER_LEVEL2@2
+
+{"item_id": "T6_LEATHER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_LEATHER_LEVEL2@2
+
+{"item_id": "T6_LEATHER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 24300, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 25462, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 15, "buy_price_min_date": "2022-05-25T21:00:00", "buy_price_max": 20709, "buy_price_max_date": "2022-05-25T21:00:00"}
+
+
+
+T6_LEATHER_LEVEL3@3
+
+{"item_id": "T6_LEATHER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_LEATHER_LEVEL3@3
+
+{"item_id": "T6_LEATHER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 52492, "sell_price_min_date": "2022-05-25T23:00:00", "sell_price_max": 63960, "sell_price_max_date": "2022-05-25T23:00:00", "buy_price_min": 104, "buy_price_min_date": "2022-05-25T23:00:00", "buy_price_max": 37501, "buy_price_max_date": "2022-05-25T23:00:00"}
+
+
+
+T6_METALBAR
+
+{"item_id": "T6_METALBAR", "city": "Bridgewatch", "quality": 1, "sell_price_min": 2847, "sell_price_min_date": "2022-05-25T11:15:00", "sell_price_max": 2927, "sell_price_max_date": "2022-05-25T11:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_METALBAR
+
+{"item_id": "T6_METALBAR", "city": "Caerleon", "quality": 1, "sell_price_min": 2766, "sell_price_min_date": "2022-05-25T20:45:00", "sell_price_max": 2803, "sell_price_max_date": "2022-05-25T20:45:00", "buy_price_min": 100, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 2610, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T6_METALBAR_LEVEL1@1
+
+{"item_id": "T6_METALBAR_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 6120, "sell_price_min_date": "2022-05-25T16:50:00", "sell_price_max": 6676, "sell_price_max_date": "2022-05-25T16:50:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_METALBAR_LEVEL1@1
+
+{"item_id": "T6_METALBAR_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 5899, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 20571, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 5709, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T6_METALBAR_LEVEL2@2
+
+{"item_id": "T6_METALBAR_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 18708, "sell_price_min_date": "2022-05-25T22:50:00", "sell_price_max": 18998, "sell_price_max_date": "2022-05-25T22:50:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T22:50:00", "buy_price_max": 17203, "buy_price_max_date": "2022-05-25T22:50:00"}
+
+
+
+T6_METALBAR_LEVEL2@2
+
+{"item_id": "T6_METALBAR_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 18879, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 23000, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_METALBAR_LEVEL3@3
+
+{"item_id": "T6_METALBAR_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 47775, "sell_price_min_date": "2022-05-25T22:50:00", "sell_price_max": 48241, "sell_price_max_date": "2022-05-25T22:50:00", "buy_price_min": 4517, "buy_price_min_date": "2022-05-25T22:50:00", "buy_price_max": 42201, "buy_price_max_date": "2022-05-25T22:50:00"}
+
+
+
+T6_METALBAR_LEVEL3@3
+
+{"item_id": "T6_METALBAR_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 54999, "sell_price_min_date": "2022-05-25T20:45:00", "sell_price_max": 55000, "sell_price_max_date": "2022-05-25T20:45:00", "buy_price_min": 109, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 42026, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T6_ORE
+
+{"item_id": "T6_ORE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 774, "sell_price_min_date": "2022-05-25T22:25:00", "sell_price_max": 823, "sell_price_max_date": "2022-05-25T22:25:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-25T22:25:00", "buy_price_max": 771, "buy_price_max_date": "2022-05-25T22:25:00"}
+
+
+
+T6_ORE
+
+{"item_id": "T6_ORE", "city": "Caerleon", "quality": 1, "sell_price_min": 710, "sell_price_min_date": "2022-05-26T00:45:00", "sell_price_max": 733, "sell_price_max_date": "2022-05-26T00:45:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ORE_LEVEL1@1
+
+{"item_id": "T6_ORE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1844, "sell_price_min_date": "2022-05-25T22:25:00", "sell_price_max": 1844, "sell_price_max_date": "2022-05-25T22:25:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-25T22:25:00", "buy_price_max": 1840, "buy_price_max_date": "2022-05-25T22:25:00"}
+
+
+
+T6_ORE_LEVEL1@1
+
+{"item_id": "T6_ORE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ORE_LEVEL2@2
+
+{"item_id": "T6_ORE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 7000, "sell_price_min_date": "2022-05-25T22:25:00", "sell_price_max": 7065, "sell_price_max_date": "2022-05-25T22:25:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-25T22:25:00", "buy_price_max": 6668, "buy_price_max_date": "2022-05-25T22:25:00"}
+
+
+
+T6_ORE_LEVEL2@2
+
+{"item_id": "T6_ORE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ORE_LEVEL3@3
+
+{"item_id": "T6_ORE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 16574, "sell_price_min_date": "2022-05-25T22:25:00", "sell_price_max": 16716, "sell_price_max_date": "2022-05-25T22:25:00", "buy_price_min": 113, "buy_price_min_date": "2022-05-25T22:25:00", "buy_price_max": 15752, "buy_price_max_date": "2022-05-25T22:25:00"}
+
+
+
+T6_ORE_LEVEL3@3
+
+{"item_id": "T6_ORE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_PLANKS
+
+{"item_id": "T6_PLANKS", "city": "Bridgewatch", "quality": 1, "sell_price_min": 2538, "sell_price_min_date": "2022-05-25T16:50:00", "sell_price_max": 2787, "sell_price_max_date": "2022-05-25T16:50:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_PLANKS
+
+{"item_id": "T6_PLANKS", "city": "Caerleon", "quality": 1, "sell_price_min": 2523, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 60000000, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 2494, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T6_PLANKS_LEVEL1@1
+
+{"item_id": "T6_PLANKS_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 4426, "sell_price_min_date": "2022-05-25T16:50:00", "sell_price_max": 4986, "sell_price_max_date": "2022-05-25T16:50:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_PLANKS_LEVEL1@1
+
+{"item_id": "T6_PLANKS_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 4792, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 44192, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 4601, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T6_PLANKS_LEVEL2@2
+
+{"item_id": "T6_PLANKS_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 18982, "sell_price_min_date": "2022-05-25T14:50:00", "sell_price_max": 20121, "sell_price_max_date": "2022-05-25T14:50:00", "buy_price_min": 105, "buy_price_min_date": "2022-05-25T14:50:00", "buy_price_max": 15002, "buy_price_max_date": "2022-05-25T14:50:00"}
+
+
+
+T6_PLANKS_LEVEL2@2
+
+{"item_id": "T6_PLANKS_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 17992, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 62000, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 14, "buy_price_min_date": "2022-05-25T18:45:00", "buy_price_max": 17603, "buy_price_max_date": "2022-05-25T18:45:00"}
+
+
+
+T6_PLANKS_LEVEL3@3
+
+{"item_id": "T6_PLANKS_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_PLANKS_LEVEL3@3
+
+{"item_id": "T6_PLANKS_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 49993, "sell_price_min_date": "2022-05-25T21:05:00", "sell_price_max": 56999, "sell_price_max_date": "2022-05-25T21:05:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ROCK
+
+{"item_id": "T6_ROCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 448, "sell_price_min_date": "2022-05-25T16:00:00", "sell_price_max": 487, "sell_price_max_date": "2022-05-25T16:00:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T16:00:00", "buy_price_max": 378, "buy_price_max_date": "2022-05-25T16:00:00"}
+
+
+
+T6_ROCK
+
+{"item_id": "T6_ROCK", "city": "Caerleon", "quality": 1, "sell_price_min": 387, "sell_price_min_date": "2022-05-25T21:25:00", "sell_price_max": 387, "sell_price_max_date": "2022-05-25T21:25:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ROCK_LEVEL1@1
+
+{"item_id": "T6_ROCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 728, "sell_price_min_date": "2022-05-25T20:15:00", "sell_price_max": 888, "sell_price_max_date": "2022-05-25T20:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ROCK_LEVEL1@1
+
+{"item_id": "T6_ROCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 694, "sell_price_min_date": "2022-05-25T22:35:00", "sell_price_max": 740, "sell_price_max_date": "2022-05-25T22:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ROCK_LEVEL2@2
+
+{"item_id": "T6_ROCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1534, "sell_price_min_date": "2022-05-25T18:40:00", "sell_price_max": 1617, "sell_price_max_date": "2022-05-25T18:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ROCK_LEVEL2@2
+
+{"item_id": "T6_ROCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 1369, "sell_price_min_date": "2022-05-25T16:25:00", "sell_price_max": 1486, "sell_price_max_date": "2022-05-25T16:25:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ROCK_LEVEL3@3
+
+{"item_id": "T6_ROCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 3487, "sell_price_min_date": "2022-05-25T06:20:00", "sell_price_max": 3526, "sell_price_max_date": "2022-05-25T06:20:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_ROCK_LEVEL3@3
+
+{"item_id": "T6_ROCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 3007, "sell_price_min_date": "2022-05-25T21:05:00", "sell_price_max": 3121, "sell_price_max_date": "2022-05-25T21:05:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_STONEBLOCK
+
+{"item_id": "T6_STONEBLOCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_STONEBLOCK
+
+{"item_id": "T6_STONEBLOCK", "city": "Caerleon", "quality": 1, "sell_price_min": 1820, "sell_price_min_date": "2022-05-25T21:50:00", "sell_price_max": 17776, "sell_price_max_date": "2022-05-25T21:50:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T21:50:00", "buy_price_max": 803, "buy_price_max_date": "2022-05-25T21:50:00"}
+
+
+
+T6_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T6_STONEBLOCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T6_STONEBLOCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T6_STONEBLOCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T6_STONEBLOCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T6_STONEBLOCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T6_STONEBLOCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_WOOD
+
+{"item_id": "T6_WOOD", "city": "Bridgewatch", "quality": 1, "sell_price_min": 793, "sell_price_min_date": "2022-05-25T17:10:00", "sell_price_max": 831, "sell_price_max_date": "2022-05-25T17:10:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T17:10:00", "buy_price_max": 758, "buy_price_max_date": "2022-05-25T17:10:00"}
+
+
+
+T6_WOOD
+
+{"item_id": "T6_WOOD", "city": "Caerleon", "quality": 1, "sell_price_min": 623, "sell_price_min_date": "2022-05-25T21:35:00", "sell_price_max": 650, "sell_price_max_date": "2022-05-25T21:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_WOOD_LEVEL1@1
+
+{"item_id": "T6_WOOD_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_WOOD_LEVEL1@1
+
+{"item_id": "T6_WOOD_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 1099, "sell_price_min_date": "2022-05-25T07:30:00", "sell_price_max": 1195, "sell_price_max_date": "2022-05-25T07:30:00", "buy_price_min": 100, "buy_price_min_date": "2022-05-25T07:30:00", "buy_price_max": 1098, "buy_price_max_date": "2022-05-25T07:30:00"}
+
+
+
+T6_WOOD_LEVEL2@2
+
+{"item_id": "T6_WOOD_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_WOOD_LEVEL2@2
+
+{"item_id": "T6_WOOD_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 5595, "sell_price_min_date": "2022-05-25T12:35:00", "sell_price_max": 6090, "sell_price_max_date": "2022-05-25T12:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_WOOD_LEVEL3@3
+
+{"item_id": "T6_WOOD_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T6_WOOD_LEVEL3@3
+
+{"item_id": "T6_WOOD_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_CLOTH
+
+{"item_id": "T7_CLOTH", "city": "Bridgewatch", "quality": 1, "sell_price_min": 10486, "sell_price_min_date": "2022-05-25T20:15:00", "sell_price_max": 11299, "sell_price_max_date": "2022-05-25T20:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_CLOTH
+
+{"item_id": "T7_CLOTH", "city": "Caerleon", "quality": 1, "sell_price_min": 12120, "sell_price_min_date": "2022-05-25T20:25:00", "sell_price_max": 14500, "sell_price_max_date": "2022-05-25T20:25:00", "buy_price_min": 9000, "buy_price_min_date": "2022-05-25T18:00:00", "buy_price_max": 10554, "buy_price_max_date": "2022-05-25T18:00:00"}
+
+
+
+T7_CLOTH_LEVEL1@1
+
+{"item_id": "T7_CLOTH_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_CLOTH_LEVEL1@1
+
+{"item_id": "T7_CLOTH_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 24899, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 30000, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_CLOTH_LEVEL2@2
+
+{"item_id": "T7_CLOTH_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_CLOTH_LEVEL2@2
+
+{"item_id": "T7_CLOTH_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 47999, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 52000, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_CLOTH_LEVEL3@3
+
+{"item_id": "T7_CLOTH_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 113000, "sell_price_min_date": "2022-05-25T11:55:00", "sell_price_max": 130000, "sell_price_max_date": "2022-05-25T11:55:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_CLOTH_LEVEL3@3
+
+{"item_id": "T7_CLOTH_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 127000, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 134990, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_FIBER
+
+{"item_id": "T7_FIBER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 3190, "sell_price_min_date": "2022-05-25T20:15:00", "sell_price_max": 3226, "sell_price_max_date": "2022-05-25T20:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_FIBER
+
+{"item_id": "T7_FIBER", "city": "Caerleon", "quality": 1, "sell_price_min": 2393, "sell_price_min_date": "2022-05-25T21:10:00", "sell_price_max": 3176, "sell_price_max_date": "2022-05-25T21:10:00", "buy_price_min": 2301, "buy_price_min_date": "2022-05-25T19:00:00", "buy_price_max": 2301, "buy_price_max_date": "2022-05-25T19:00:00"}
+
+
+
+T7_FIBER_LEVEL1@1
+
+{"item_id": "T7_FIBER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 7137, "sell_price_min_date": "2022-05-25T20:40:00", "sell_price_max": 7137, "sell_price_max_date": "2022-05-25T20:40:00", "buy_price_min": 5, "buy_price_min_date": "2022-05-25T20:40:00", "buy_price_max": 7107, "buy_price_max_date": "2022-05-25T20:40:00"}
+
+
+
+T7_FIBER_LEVEL1@1
+
+{"item_id": "T7_FIBER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_FIBER_LEVEL2@2
+
+{"item_id": "T7_FIBER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_FIBER_LEVEL2@2
+
+{"item_id": "T7_FIBER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_FIBER_LEVEL3@3
+
+{"item_id": "T7_FIBER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_FIBER_LEVEL3@3
+
+{"item_id": "T7_FIBER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_HIDE
+
+{"item_id": "T7_HIDE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 4493, "sell_price_min_date": "2022-05-25T20:15:00", "sell_price_max": 4580, "sell_price_max_date": "2022-05-25T20:15:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 4304, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T7_HIDE
+
+{"item_id": "T7_HIDE", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_HIDE_LEVEL1@1
+
+{"item_id": "T7_HIDE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 8099, "sell_price_min_date": "2022-05-25T18:35:00", "sell_price_max": 8379, "sell_price_max_date": "2022-05-25T18:35:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 8097, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T7_HIDE_LEVEL1@1
+
+{"item_id": "T7_HIDE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_HIDE_LEVEL2@2
+
+{"item_id": "T7_HIDE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 16259, "sell_price_min_date": "2022-05-25T18:35:00", "sell_price_max": 17999, "sell_price_max_date": "2022-05-25T18:35:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 15751, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T7_HIDE_LEVEL2@2
+
+{"item_id": "T7_HIDE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_HIDE_LEVEL3@3
+
+{"item_id": "T7_HIDE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 1012, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 34586, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T7_HIDE_LEVEL3@3
+
+{"item_id": "T7_HIDE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_LEATHER
+
+{"item_id": "T7_LEATHER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 14767, "sell_price_min_date": "2022-05-26T00:35:00", "sell_price_max": 14776, "sell_price_max_date": "2022-05-26T00:35:00", "buy_price_min": 4, "buy_price_min_date": "2022-05-25T18:25:00", "buy_price_max": 13007, "buy_price_max_date": "2022-05-25T18:25:00"}
+
+
+
+T7_LEATHER
+
+{"item_id": "T7_LEATHER", "city": "Caerleon", "quality": 1, "sell_price_min": 17108, "sell_price_min_date": "2022-05-25T23:45:00", "sell_price_max": 18759, "sell_price_max_date": "2022-05-25T23:45:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T18:50:00", "buy_price_max": 15094, "buy_price_max_date": "2022-05-25T18:50:00"}
+
+
+
+T7_LEATHER_LEVEL1@1
+
+{"item_id": "T7_LEATHER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 29358, "sell_price_min_date": "2022-05-25T18:25:00", "sell_price_max": 29360, "sell_price_max_date": "2022-05-25T18:25:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_LEATHER_LEVEL1@1
+
+{"item_id": "T7_LEATHER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 27000, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 39988, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 50, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 18000, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T7_LEATHER_LEVEL2@2
+
+{"item_id": "T7_LEATHER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_LEATHER_LEVEL2@2
+
+{"item_id": "T7_LEATHER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 61158, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 63000, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 115, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 48500, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T7_LEATHER_LEVEL3@3
+
+{"item_id": "T7_LEATHER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_LEATHER_LEVEL3@3
+
+{"item_id": "T7_LEATHER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 123513, "sell_price_min_date": "2022-05-25T18:50:00", "sell_price_max": 124000, "sell_price_max_date": "2022-05-25T18:50:00", "buy_price_min": 115, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 110018, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T7_METALBAR
+
+{"item_id": "T7_METALBAR", "city": "Bridgewatch", "quality": 1, "sell_price_min": 6280, "sell_price_min_date": "2022-05-25T11:15:00", "sell_price_max": 6691, "sell_price_max_date": "2022-05-25T11:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_METALBAR
+
+{"item_id": "T7_METALBAR", "city": "Caerleon", "quality": 1, "sell_price_min": 6066, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 7220, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T17:30:00", "buy_price_max": 5609, "buy_price_max_date": "2022-05-25T17:30:00"}
+
+
+
+T7_METALBAR_LEVEL1@1
+
+{"item_id": "T7_METALBAR_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 19399, "sell_price_min_date": "2022-05-25T22:50:00", "sell_price_max": 20000000, "sell_price_max_date": "2022-05-25T22:50:00", "buy_price_min": 16, "buy_price_min_date": "2022-05-25T22:50:00", "buy_price_max": 17999, "buy_price_max_date": "2022-05-25T22:50:00"}
+
+
+
+T7_METALBAR_LEVEL1@1
+
+{"item_id": "T7_METALBAR_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 18343, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 24500, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-25T18:05:00", "buy_price_max": 16503, "buy_price_max_date": "2022-05-25T18:05:00"}
+
+
+
+T7_METALBAR_LEVEL2@2
+
+{"item_id": "T7_METALBAR_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 45942, "sell_price_min_date": "2022-05-25T21:55:00", "sell_price_max": 49999, "sell_price_max_date": "2022-05-25T21:55:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_METALBAR_LEVEL2@2
+
+{"item_id": "T7_METALBAR_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 48669, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 49800, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T18:20:00", "buy_price_max": 43507, "buy_price_max_date": "2022-05-25T18:20:00"}
+
+
+
+T7_METALBAR_LEVEL3@3
+
+{"item_id": "T7_METALBAR_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_METALBAR_LEVEL3@3
+
+{"item_id": "T7_METALBAR_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 123560, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 123578, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ORE
+
+{"item_id": "T7_ORE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ORE
+
+{"item_id": "T7_ORE", "city": "Caerleon", "quality": 1, "sell_price_min": 1384, "sell_price_min_date": "2022-05-25T21:10:00", "sell_price_max": 1494, "sell_price_max_date": "2022-05-25T21:10:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ORE_LEVEL1@1
+
+{"item_id": "T7_ORE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ORE_LEVEL1@1
+
+{"item_id": "T7_ORE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ORE_LEVEL2@2
+
+{"item_id": "T7_ORE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ORE_LEVEL2@2
+
+{"item_id": "T7_ORE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 11898, "sell_price_min_date": "2022-05-26T00:00:00", "sell_price_max": 13093, "sell_price_max_date": "2022-05-26T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ORE_LEVEL3@3
+
+{"item_id": "T7_ORE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ORE_LEVEL3@3
+
+{"item_id": "T7_ORE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_PLANKS
+
+{"item_id": "T7_PLANKS", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_PLANKS
+
+{"item_id": "T7_PLANKS", "city": "Caerleon", "quality": 1, "sell_price_min": 6841, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 22998, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 100, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 6622, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T7_PLANKS_LEVEL1@1
+
+{"item_id": "T7_PLANKS_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_PLANKS_LEVEL1@1
+
+{"item_id": "T7_PLANKS_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 14889, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 17173, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 12, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 13003, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T7_PLANKS_LEVEL2@2
+
+{"item_id": "T7_PLANKS_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_PLANKS_LEVEL2@2
+
+{"item_id": "T7_PLANKS_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 42972, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 49995, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 110, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 36000, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T7_PLANKS_LEVEL3@3
+
+{"item_id": "T7_PLANKS_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_PLANKS_LEVEL3@3
+
+{"item_id": "T7_PLANKS_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 109999, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 130000, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 122, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 90011, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T7_ROCK
+
+{"item_id": "T7_ROCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 2019, "sell_price_min_date": "2022-05-25T18:15:00", "sell_price_max": 2085, "sell_price_max_date": "2022-05-25T18:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ROCK
+
+{"item_id": "T7_ROCK", "city": "Caerleon", "quality": 1, "sell_price_min": 1797, "sell_price_min_date": "2022-05-25T18:25:00", "sell_price_max": 1803, "sell_price_max_date": "2022-05-25T18:25:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T05:55:00", "buy_price_max": 1694, "buy_price_max_date": "2022-05-25T05:55:00"}
+
+
+
+T7_ROCK_LEVEL1@1
+
+{"item_id": "T7_ROCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ROCK_LEVEL1@1
+
+{"item_id": "T7_ROCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 3925, "sell_price_min_date": "2022-05-25T17:50:00", "sell_price_max": 4286, "sell_price_max_date": "2022-05-25T17:50:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T05:55:00", "buy_price_max": 3290, "buy_price_max_date": "2022-05-25T05:55:00"}
+
+
+
+T7_ROCK_LEVEL2@2
+
+{"item_id": "T7_ROCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ROCK_LEVEL2@2
+
+{"item_id": "T7_ROCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 7487, "sell_price_min_date": "2022-05-26T00:00:00", "sell_price_max": 7998, "sell_price_max_date": "2022-05-26T00:00:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T05:55:00", "buy_price_max": 6076, "buy_price_max_date": "2022-05-25T05:55:00"}
+
+
+
+T7_ROCK_LEVEL3@3
+
+{"item_id": "T7_ROCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 16068, "sell_price_min_date": "2022-05-25T07:20:00", "sell_price_max": 16976, "sell_price_max_date": "2022-05-25T07:20:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_ROCK_LEVEL3@3
+
+{"item_id": "T7_ROCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 15947, "sell_price_min_date": "2022-05-26T00:00:00", "sell_price_max": 17500, "sell_price_max_date": "2022-05-26T00:00:00", "buy_price_min": 102, "buy_price_min_date": "2022-05-25T05:55:00", "buy_price_max": 12082, "buy_price_max_date": "2022-05-25T05:55:00"}
+
+
+
+T7_STONEBLOCK
+
+{"item_id": "T7_STONEBLOCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_STONEBLOCK
+
+{"item_id": "T7_STONEBLOCK", "city": "Caerleon", "quality": 1, "sell_price_min": 8200, "sell_price_min_date": "2022-05-25T19:45:00", "sell_price_max": 9499, "sell_price_max_date": "2022-05-25T19:45:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T19:45:00", "buy_price_max": 7006, "buy_price_max_date": "2022-05-25T19:45:00"}
+
+
+
+T7_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T7_STONEBLOCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T7_STONEBLOCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T7_STONEBLOCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T7_STONEBLOCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T7_STONEBLOCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T7_STONEBLOCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_WOOD
+
+{"item_id": "T7_WOOD", "city": "Bridgewatch", "quality": 1, "sell_price_min": 1544, "sell_price_min_date": "2022-05-25T12:50:00", "sell_price_max": 1589, "sell_price_max_date": "2022-05-25T12:50:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_WOOD
+
+{"item_id": "T7_WOOD", "city": "Caerleon", "quality": 1, "sell_price_min": 1484, "sell_price_min_date": "2022-05-25T19:50:00", "sell_price_max": 1621, "sell_price_max_date": "2022-05-25T19:50:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_WOOD_LEVEL1@1
+
+{"item_id": "T7_WOOD_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_WOOD_LEVEL1@1
+
+{"item_id": "T7_WOOD_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_WOOD_LEVEL2@2
+
+{"item_id": "T7_WOOD_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_WOOD_LEVEL2@2
+
+{"item_id": "T7_WOOD_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_WOOD_LEVEL3@3
+
+{"item_id": "T7_WOOD_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T7_WOOD_LEVEL3@3
+
+{"item_id": "T7_WOOD_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 29477, "sell_price_min_date": "2022-05-26T00:00:00", "sell_price_max": 29495, "sell_price_max_date": "2022-05-26T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_CLOTH
+
+{"item_id": "T8_CLOTH", "city": "Bridgewatch", "quality": 1, "sell_price_min": 28584, "sell_price_min_date": "2022-05-25T20:15:00", "sell_price_max": 30485, "sell_price_max_date": "2022-05-25T20:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_CLOTH
+
+{"item_id": "T8_CLOTH", "city": "Caerleon", "quality": 1, "sell_price_min": 28968, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 31297, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 14, "buy_price_min_date": "2022-05-25T18:00:00", "buy_price_max": 26116, "buy_price_max_date": "2022-05-25T18:00:00"}
+
+
+
+T8_CLOTH_LEVEL1@1
+
+{"item_id": "T8_CLOTH_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 52213, "sell_price_min_date": "2022-05-25T20:30:00", "sell_price_max": 52213, "sell_price_max_date": "2022-05-25T20:30:00", "buy_price_min": 5, "buy_price_min_date": "2022-05-25T20:30:00", "buy_price_max": 40000, "buy_price_max_date": "2022-05-25T20:30:00"}
+
+
+
+T8_CLOTH_LEVEL1@1
+
+{"item_id": "T8_CLOTH_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_CLOTH_LEVEL2@2
+
+{"item_id": "T8_CLOTH_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 139999, "sell_price_min_date": "2022-05-25T20:15:00", "sell_price_max": 140000, "sell_price_max_date": "2022-05-25T20:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_CLOTH_LEVEL2@2
+
+{"item_id": "T8_CLOTH_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 124735, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 159994, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_CLOTH_LEVEL3@3
+
+{"item_id": "T8_CLOTH_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 213885, "sell_price_min_date": "2022-05-25T20:25:00", "sell_price_max": 215345, "sell_price_max_date": "2022-05-25T20:25:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T09:45:00", "buy_price_max": 192501, "buy_price_max_date": "2022-05-25T09:45:00"}
+
+
+
+T8_CLOTH_LEVEL3@3
+
+{"item_id": "T8_CLOTH_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 230996, "sell_price_min_date": "2022-05-25T19:00:00", "sell_price_max": 249999, "sell_price_max_date": "2022-05-25T19:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_FIBER
+
+{"item_id": "T8_FIBER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 8747, "sell_price_min_date": "2022-05-26T01:45:00", "sell_price_max": 8797, "sell_price_max_date": "2022-05-26T01:45:00", "buy_price_min": 5, "buy_price_min_date": "2022-05-26T01:45:00", "buy_price_max": 8623, "buy_price_max_date": "2022-05-26T01:45:00"}
+
+
+
+T8_FIBER
+
+{"item_id": "T8_FIBER", "city": "Caerleon", "quality": 1, "sell_price_min": 8993, "sell_price_min_date": "2022-05-25T16:40:00", "sell_price_max": 8993, "sell_price_max_date": "2022-05-25T16:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_FIBER_LEVEL1@1
+
+{"item_id": "T8_FIBER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_FIBER_LEVEL1@1
+
+{"item_id": "T8_FIBER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_FIBER_LEVEL2@2
+
+{"item_id": "T8_FIBER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 32981, "sell_price_min_date": "2022-05-26T00:20:00", "sell_price_max": 33000, "sell_price_max_date": "2022-05-26T00:20:00", "buy_price_min": 101, "buy_price_min_date": "2022-05-25T19:45:00", "buy_price_max": 30501, "buy_price_max_date": "2022-05-25T19:45:00"}
+
+
+
+T8_FIBER_LEVEL2@2
+
+{"item_id": "T8_FIBER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 34900, "sell_price_min_date": "2022-05-25T17:35:00", "sell_price_max": 53494, "sell_price_max_date": "2022-05-25T17:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_FIBER_LEVEL3@3
+
+{"item_id": "T8_FIBER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 66590, "sell_price_min_date": "2022-05-25T14:45:00", "sell_price_max": 73868, "sell_price_max_date": "2022-05-25T14:45:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_FIBER_LEVEL3@3
+
+{"item_id": "T8_FIBER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 66986, "sell_price_min_date": "2022-05-25T23:35:00", "sell_price_max": 66986, "sell_price_max_date": "2022-05-25T23:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_HIDE
+
+{"item_id": "T8_HIDE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 10457, "sell_price_min_date": "2022-05-26T00:20:00", "sell_price_max": 10999, "sell_price_max_date": "2022-05-26T00:20:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-26T04:30:00", "buy_price_max": 1, "buy_price_max_date": "2022-05-26T04:30:00"}
+
+
+
+T8_HIDE
+
+{"item_id": "T8_HIDE", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_HIDE_LEVEL1@1
+
+{"item_id": "T8_HIDE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 17383, "sell_price_min_date": "2022-05-26T00:20:00", "sell_price_max": 17396, "sell_price_max_date": "2022-05-26T00:20:00", "buy_price_min": 3, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 16877, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T8_HIDE_LEVEL1@1
+
+{"item_id": "T8_HIDE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_HIDE_LEVEL2@2
+
+{"item_id": "T8_HIDE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 35450, "sell_price_min_date": "2022-05-25T19:30:00", "sell_price_max": 37999, "sell_price_max_date": "2022-05-25T19:30:00", "buy_price_min": 104, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 32521, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T8_HIDE_LEVEL2@2
+
+{"item_id": "T8_HIDE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_HIDE_LEVEL3@3
+
+{"item_id": "T8_HIDE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 83994, "sell_price_min_date": "2022-05-25T18:35:00", "sell_price_max": 84000, "sell_price_max_date": "2022-05-25T18:35:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:35:00", "buy_price_max": 64483, "buy_price_max_date": "2022-05-25T18:35:00"}
+
+
+
+T8_HIDE_LEVEL3@3
+
+{"item_id": "T8_HIDE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 72000, "sell_price_min_date": "2022-05-25T23:35:00", "sell_price_max": 72000, "sell_price_max_date": "2022-05-25T23:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_LEATHER
+
+{"item_id": "T8_LEATHER", "city": "Bridgewatch", "quality": 1, "sell_price_min": 33499, "sell_price_min_date": "2022-05-25T18:25:00", "sell_price_max": 41500, "sell_price_max_date": "2022-05-25T18:25:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:25:00", "buy_price_max": 31008, "buy_price_max_date": "2022-05-25T18:25:00"}
+
+
+
+T8_LEATHER
+
+{"item_id": "T8_LEATHER", "city": "Caerleon", "quality": 1, "sell_price_min": 34239, "sell_price_min_date": "2022-05-25T19:45:00", "sell_price_max": 36259, "sell_price_max_date": "2022-05-25T19:45:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T19:45:00", "buy_price_max": 32156, "buy_price_max_date": "2022-05-25T19:45:00"}
+
+
+
+T8_LEATHER_LEVEL1@1
+
+{"item_id": "T8_LEATHER_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 62000, "sell_price_min_date": "2022-05-25T20:30:00", "sell_price_max": 62000, "sell_price_max_date": "2022-05-25T20:30:00", "buy_price_min": 24, "buy_price_min_date": "2022-05-25T20:25:00", "buy_price_max": 47001, "buy_price_max_date": "2022-05-25T20:25:00"}
+
+
+
+T8_LEATHER_LEVEL1@1
+
+{"item_id": "T8_LEATHER_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 62393, "sell_price_min_date": "2022-05-25T20:15:00", "sell_price_max": 68788, "sell_price_max_date": "2022-05-25T20:15:00", "buy_price_min": 4, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 49007, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T8_LEATHER_LEVEL2@2
+
+{"item_id": "T8_LEATHER_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_LEATHER_LEVEL2@2
+
+{"item_id": "T8_LEATHER_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 128000, "sell_price_min_date": "2022-05-25T18:50:00", "sell_price_max": 154950, "sell_price_max_date": "2022-05-25T18:50:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:50:00", "buy_price_max": 120011, "buy_price_max_date": "2022-05-25T18:50:00"}
+
+
+
+T8_LEATHER_LEVEL3@3
+
+{"item_id": "T8_LEATHER_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_LEATHER_LEVEL3@3
+
+{"item_id": "T8_LEATHER_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 238999, "sell_price_min_date": "2022-05-25T23:35:00", "sell_price_max": 264998, "sell_price_max_date": "2022-05-25T23:35:00", "buy_price_min": 210029, "buy_price_min_date": "2022-05-25T18:55:00", "buy_price_max": 210029, "buy_price_max_date": "2022-05-25T18:55:00"}
+
+
+
+T8_METALBAR
+
+{"item_id": "T8_METALBAR", "city": "Bridgewatch", "quality": 1, "sell_price_min": 20906, "sell_price_min_date": "2022-05-25T11:15:00", "sell_price_max": 22500, "sell_price_max_date": "2022-05-25T11:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_METALBAR
+
+{"item_id": "T8_METALBAR", "city": "Caerleon", "quality": 1, "sell_price_min": 20500, "sell_price_min_date": "2022-05-25T19:45:00", "sell_price_max": 22111, "sell_price_max_date": "2022-05-25T19:45:00", "buy_price_min": 12000, "buy_price_min_date": "2022-05-25T19:45:00", "buy_price_max": 20341, "buy_price_max_date": "2022-05-25T19:45:00"}
+
+
+
+T8_METALBAR_LEVEL1@1
+
+{"item_id": "T8_METALBAR_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 45992, "sell_price_min_date": "2022-05-25T17:50:00", "sell_price_max": 53979, "sell_price_max_date": "2022-05-25T17:50:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_METALBAR_LEVEL1@1
+
+{"item_id": "T8_METALBAR_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 45497, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 58999, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 4, "buy_price_min_date": "2022-05-25T18:20:00", "buy_price_max": 40002, "buy_price_max_date": "2022-05-25T18:20:00"}
+
+
+
+T8_METALBAR_LEVEL2@2
+
+{"item_id": "T8_METALBAR_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 104000, "sell_price_min_date": "2022-05-25T19:30:00", "sell_price_max": 119997, "sell_price_max_date": "2022-05-25T19:30:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_METALBAR_LEVEL2@2
+
+{"item_id": "T8_METALBAR_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 130000, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 144497, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 2, "buy_price_min_date": "2022-05-25T18:45:00", "buy_price_max": 100001, "buy_price_max_date": "2022-05-25T18:45:00"}
+
+
+
+T8_METALBAR_LEVEL3@3
+
+{"item_id": "T8_METALBAR_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 218995, "sell_price_min_date": "2022-05-25T11:15:00", "sell_price_max": 220000, "sell_price_max_date": "2022-05-25T11:15:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_METALBAR_LEVEL3@3
+
+{"item_id": "T8_METALBAR_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 242516, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 248997, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 220016, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T8_ORE
+
+{"item_id": "T8_ORE", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ORE
+
+{"item_id": "T8_ORE", "city": "Caerleon", "quality": 1, "sell_price_min": 6466, "sell_price_min_date": "2022-05-25T12:35:00", "sell_price_max": 6567, "sell_price_max_date": "2022-05-25T12:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ORE_LEVEL1@1
+
+{"item_id": "T8_ORE_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 12999, "sell_price_min_date": "2022-05-26T04:40:00", "sell_price_max": 13000, "sell_price_max_date": "2022-05-26T04:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ORE_LEVEL1@1
+
+{"item_id": "T8_ORE_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 14032, "sell_price_min_date": "2022-05-26T02:30:00", "sell_price_max": 14220, "sell_price_max_date": "2022-05-26T02:30:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ORE_LEVEL2@2
+
+{"item_id": "T8_ORE_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ORE_LEVEL2@2
+
+{"item_id": "T8_ORE_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 26270, "sell_price_min_date": "2022-05-25T17:35:00", "sell_price_max": 29700, "sell_price_max_date": "2022-05-25T17:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ORE_LEVEL3@3
+
+{"item_id": "T8_ORE_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 68107, "sell_price_min_date": "2022-05-25T14:45:00", "sell_price_max": 70000, "sell_price_max_date": "2022-05-25T14:45:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ORE_LEVEL3@3
+
+{"item_id": "T8_ORE_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 63000, "sell_price_min_date": "2022-05-25T23:35:00", "sell_price_max": 80000, "sell_price_max_date": "2022-05-25T23:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_PLANKS
+
+{"item_id": "T8_PLANKS", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_PLANKS
+
+{"item_id": "T8_PLANKS", "city": "Caerleon", "quality": 1, "sell_price_min": 20344, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 61168000, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 18704, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T8_PLANKS_LEVEL1@1
+
+{"item_id": "T8_PLANKS_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_PLANKS_LEVEL1@1
+
+{"item_id": "T8_PLANKS_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 46998, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 57409, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 10, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 42477, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T8_PLANKS_LEVEL2@2
+
+{"item_id": "T8_PLANKS_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_PLANKS_LEVEL2@2
+
+{"item_id": "T8_PLANKS_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 127996, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 134994, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 91101, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T8_PLANKS_LEVEL3@3
+
+{"item_id": "T8_PLANKS_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_PLANKS_LEVEL3@3
+
+{"item_id": "T8_PLANKS_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 220000, "sell_price_min_date": "2022-05-25T19:05:00", "sell_price_max": 279998, "sell_price_max_date": "2022-05-25T19:05:00", "buy_price_min": 1, "buy_price_min_date": "2022-05-25T18:15:00", "buy_price_max": 200043, "buy_price_max_date": "2022-05-25T18:15:00"}
+
+
+
+T8_ROCK
+
+{"item_id": "T8_ROCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ROCK
+
+{"item_id": "T8_ROCK", "city": "Caerleon", "quality": 1, "sell_price_min": 6948, "sell_price_min_date": "2022-05-25T12:40:00", "sell_price_max": 6987, "sell_price_max_date": "2022-05-25T12:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ROCK_LEVEL1@1
+
+{"item_id": "T8_ROCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ROCK_LEVEL1@1
+
+{"item_id": "T8_ROCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 13990, "sell_price_min_date": "2022-05-26T02:30:00", "sell_price_max": 14000, "sell_price_max_date": "2022-05-26T02:30:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ROCK_LEVEL2@2
+
+{"item_id": "T8_ROCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 27892, "sell_price_min_date": "2022-05-26T04:45:00", "sell_price_max": 27998, "sell_price_max_date": "2022-05-26T04:45:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ROCK_LEVEL2@2
+
+{"item_id": "T8_ROCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 25499, "sell_price_min_date": "2022-05-25T17:35:00", "sell_price_max": 25500, "sell_price_max_date": "2022-05-25T17:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ROCK_LEVEL3@3
+
+{"item_id": "T8_ROCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 56963, "sell_price_min_date": "2022-05-25T14:45:00", "sell_price_max": 57999, "sell_price_max_date": "2022-05-25T14:45:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_ROCK_LEVEL3@3
+
+{"item_id": "T8_ROCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 56999, "sell_price_min_date": "2022-05-25T23:35:00", "sell_price_max": 59999, "sell_price_max_date": "2022-05-25T23:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_STONEBLOCK
+
+{"item_id": "T8_STONEBLOCK", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_STONEBLOCK
+
+{"item_id": "T8_STONEBLOCK", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T8_STONEBLOCK_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_STONEBLOCK_LEVEL1@1
+
+{"item_id": "T8_STONEBLOCK_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T8_STONEBLOCK_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_STONEBLOCK_LEVEL2@2
+
+{"item_id": "T8_STONEBLOCK_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T8_STONEBLOCK_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_STONEBLOCK_LEVEL3@3
+
+{"item_id": "T8_STONEBLOCK_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_WOOD
+
+{"item_id": "T8_WOOD", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_WOOD
+
+{"item_id": "T8_WOOD", "city": "Caerleon", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_WOOD_LEVEL1@1
+
+{"item_id": "T8_WOOD_LEVEL1@1", "city": "Bridgewatch", "quality": 1, "sell_price_min": 12696, "sell_price_min_date": "2022-05-26T04:40:00", "sell_price_max": 13585, "sell_price_max_date": "2022-05-26T04:40:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_WOOD_LEVEL1@1
+
+{"item_id": "T8_WOOD_LEVEL1@1", "city": "Caerleon", "quality": 1, "sell_price_min": 14198, "sell_price_min_date": "2022-05-26T02:30:00", "sell_price_max": 14200, "sell_price_max_date": "2022-05-26T02:30:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_WOOD_LEVEL2@2
+
+{"item_id": "T8_WOOD_LEVEL2@2", "city": "Bridgewatch", "quality": 1, "sell_price_min": 28987, "sell_price_min_date": "2022-05-26T04:45:00", "sell_price_max": 28990, "sell_price_max_date": "2022-05-26T04:45:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_WOOD_LEVEL2@2
+
+{"item_id": "T8_WOOD_LEVEL2@2", "city": "Caerleon", "quality": 1, "sell_price_min": 28794, "sell_price_min_date": "2022-05-25T17:35:00", "sell_price_max": 29995, "sell_price_max_date": "2022-05-25T17:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_WOOD_LEVEL3@3
+
+{"item_id": "T8_WOOD_LEVEL3@3", "city": "Bridgewatch", "quality": 1, "sell_price_min": 0, "sell_price_min_date": "0001-01-01T00:00:00", "sell_price_max": 0, "sell_price_max_date": "0001-01-01T00:00:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
+T8_WOOD_LEVEL3@3
+
+{"item_id": "T8_WOOD_LEVEL3@3", "city": "Caerleon", "quality": 1, "sell_price_min": 66000, "sell_price_min_date": "2022-05-25T23:35:00", "sell_price_max": 66000, "sell_price_max_date": "2022-05-25T23:35:00", "buy_price_min": 0, "buy_price_min_date": "0001-01-01T00:00:00", "buy_price_max": 0, "buy_price_max_date": "0001-01-01T00:00:00"}
+
+
+
